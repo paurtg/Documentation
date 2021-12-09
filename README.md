@@ -6,14 +6,21 @@ A simple movement behaviour is also added but not needed for the rest of the com
 ## Contents
 
 This component is made from the following behaviours:
+
 - `AI`
+
 - `Movement`
 
 And the following states:
+
 - `Chase`
+
 - `Patrol`
+
 - `GenerateEnemies`
+
 - `SimpleMovement`
+
 
 ### Chase
 
